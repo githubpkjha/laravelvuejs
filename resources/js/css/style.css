@@ -1,0 +1,19 @@
+.center {
+  vertical-align: middle;
+  
+}
+.pointer {
+  cursor: pointer;
+}
+ div#userModal .form-group.row {
+    margin-bottom: 10px;
+}
+.user-photo {
+    height: 50px; width: 50px;
+}
+.error-msg {
+    color: red;
+}
+.btn-margin {
+    margin-top: 10px;
+}
